@@ -14,7 +14,7 @@
     </parent>
     <groupId>practice.spring</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project</description>
 
@@ -40,7 +40,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:Emad-Saber/pet-clinic.git</developerConnection>
-        <tag>pet-clinic-0.0.2</tag>
+        <tag>pet-clinic-0.0.3</tag>
     </scm>
 
 </project>
