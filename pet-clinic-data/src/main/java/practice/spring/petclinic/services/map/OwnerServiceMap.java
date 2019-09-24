@@ -2,7 +2,6 @@ package practice.spring.petclinic.services.map;
 
 import org.springframework.stereotype.Service;
 import practice.spring.petclinic.model.Owner;
-import practice.spring.petclinic.services.CrudService;
 import practice.spring.petclinic.services.OwnerService;
 
 import java.util.Set;
@@ -22,7 +21,7 @@ public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements 
 
     @Override
     public Owner save(Owner object) {
-        return super.save(object.getId(), object);
+        return super.save(object);
     }
 
     @Override
