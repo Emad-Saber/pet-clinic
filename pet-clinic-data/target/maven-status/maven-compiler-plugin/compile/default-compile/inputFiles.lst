@@ -1,5 +1,14 @@
-E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\Pet.java
 E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\Vet.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\map\PetServiceMap.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\map\AbstractMapService.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\VetService.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\map\VetServiceMap.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\OwnerService.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\map\OwnerServiceMap.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\Pet.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\BaseEntity.java
 E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\PetType.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\CrudService.java
 E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\Person.java
+E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\services\PetService.java
 E:\_Repo\pet-clinic\pet-clinic-data\src\main\java\practice\spring\petclinic\model\Owner.java
